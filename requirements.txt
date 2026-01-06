@@ -1,0 +1,5 @@
+pdf2image
+gTTS
+python-pptx
+edge-tts
+certifi

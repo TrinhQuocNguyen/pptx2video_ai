@@ -1,0 +1,1 @@
+python ppt_presenter.py --pptx example/swot.pptx --pdf example/swot.pdf -o example/swot.mp4
